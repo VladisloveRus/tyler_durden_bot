@@ -172,3 +172,4 @@ cython_debug/
 
 # DataBase of this project
 tyler_durden_database.sql
+test_db.py
